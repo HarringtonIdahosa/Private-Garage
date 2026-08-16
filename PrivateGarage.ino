@@ -243,7 +243,6 @@ void accessGranted() {
 
   delay(1000);
 
-  
   // OPEN GATE
   
   lcd.clear();
@@ -258,7 +257,6 @@ void accessGranted() {
 
   delay(1500);
 
-  
   // GATE OPEN
   lcd.clear();
 
@@ -283,10 +281,8 @@ void accessGranted() {
 
   digitalWrite(greenLED, LOW);
 
-  
   // READY
   
-
   lcd.clear();
 
   lcd.setCursor(0, 0);
