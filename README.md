@@ -19,3 +19,8 @@ An Arduino Mega-based automatic garage gate system that uses a keypad, ultrasoni
 * 5V power supply
 
 
+https://github.com/user-attachments/assets/86e14891-ed73-407b-a55d-2bf1601866c8
+
+
+
+
