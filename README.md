@@ -12,8 +12,8 @@ An Arduino Mega-based mini automatic garage gate system that uses a keypad, ultr
 * Buzzer
 * Green LED
 * Red LED
-* 220Ω resistors
 * Breadboard
+* Potentiometer
 * Jumper wires
 * USB cable
 * 5V power supply
